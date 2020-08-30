@@ -1,6 +1,6 @@
 # quizz-game
 This is javaScript quiz game where you can answer basic javaScript related questions within a given amount of time
-https://github.com/Pkay91/quizz-game
+https://pkay91.github.io/quizz-game/
 
 
 # Description
