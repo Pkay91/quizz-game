@@ -38,6 +38,7 @@ function startGame() {
     answerButtons.removeChild(answerButtons.firstChild);
   }
   showQuestion(questions[qNumber]);
+  console.log("Answer Carefully");
 }
 
 //function to display the questions
